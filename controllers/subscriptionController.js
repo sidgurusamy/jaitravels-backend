@@ -19,7 +19,11 @@ const htmlContent = `
           <!-- Header with Logo -->
           <tr>
             <td align="center" style="background-color:#ffffff; padding:30px;">
-              <img src="<img alt="Jai Travels Logo" class="h-12 object-cover" src="https://res.cloudinary.com/dlcdfwygd/image/upload/v1750912787/logowbg_r50syl.png"> alt="Jai Travels Logo" style="max-width:120px; height:auto;">
+              <img 
+      src="https://res.cloudinary.com/dlcdfwygd/image/upload/v1750912787/logowbg_r50syl.png" 
+      alt="Jai Travels Logo" 
+      style="max-width:120px; height:auto;"
+    >
               <h1 style="margin:20px 0 5px; color:#f87731; font-size:28px;">Welcome Aboard!</h1>
               <p style="margin:0; color:#0f172a; font-size:16px;">Thanks for subscribing to Jai Travels</p>
             </td>
